@@ -1,8 +1,8 @@
-# Project 2 - SimpleTweet
+# Project 2 - **SimpleTweet**
 
-SimpleTweet is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
+**SimpleTweet** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
-Time spent: 6 hours spent in total
+Time spent: **6** hours spent in total
 
 ## User Stories
 
@@ -44,7 +44,7 @@ I exceeded the rate limit for the Twitter API several times.
 
 ## License
 
-    Copyright [2021] [Kaitlin Tran]
+    Copyright 2021 Kaitlin Tran
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
